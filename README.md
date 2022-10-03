@@ -14,3 +14,10 @@
 ![LasComit](https://img.shields.io/github/last-commit/ryanlucass/template_Readme?color=blue)
 ![PullRequest](https://img.shields.io/github/issues-pr-raw/Ryanlucass/template_Readme?color=red)
 ![Info](https://img.shields.io/github/languages/count/Ryanlucass/template_Readme?label=Readme)
+
+---
+
+### Qual o objetivo do projeto ?📎
+
+ - Nós como programadores, sabemos muito bem a importância de um projeto bem documentado, seguindo um fluxo de compreensão linear e sempre claro, pensando nisso, o **template readme** foi criado com o objetivo de sanar esses problemas, principalmente pra quem está inciando nesse mundo dev. É muito importante saber vender o seu projeto, infelizmente não é todo caso que conseguimos deixar o projeto no ar, então uma boma explicação de como rodar é importantíssimo para o seu sistema.
+
