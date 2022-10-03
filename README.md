@@ -21,3 +21,11 @@
 
  - Nós como programadores, sabemos muito bem a importância de um projeto bem documentado, seguindo um fluxo de compreensão linear e sempre claro, pensando nisso, o **template readme** foi criado com o objetivo de sanar esses problemas, principalmente pra quem está inciando nesse mundo dev. É muito importante saber vender o seu projeto, infelizmente não é todo caso que conseguimos deixar o projeto no ar, então uma boma explicação de como rodar é importantíssimo para o seu sistema.
 
+### Canais de comunicação 
+
+> caso existe uma comunidade referente o projeto, é de suma importância que ela seja mostrada. aqui alguns exemplos de exposição 
+
+[![Discord](https://img.shields.io/discord/844351092758413353?color=blueviolet&label=Discord&logo=discord&style=flat)]()
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-32AFED?logo=telegram)]()
+[![WhatsApp Group](https://img.shields.io/badge/WhatsApp-Group-25D366?logo=whatsapp)](https://chat.whatsapp.com)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCD7J9LG08PmGQrF5IS7Yv9A?label=YouTube)](https://www.youtube.com)
