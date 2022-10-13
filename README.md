@@ -34,6 +34,18 @@
 [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-Group-25D366?logo=whatsapp)](https://chat.whatsapp.com)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCD7J9LG08PmGQrF5IS7Yv9A?label=YouTube)](https://www.youtube.com)
 
+
+> Defina também as tecnologias que estão sendo usadas no seu projeto 
+
+### Tecnologias 
+- .Net 
+- C# 10
+- SQL Server
+- ReactJs
+- EntityFrameWork
+- JWT
+
+
 > Definir as principais funcionalidades do seu sowftare caso ache conveniente.
 
 ### Funcionalidades 
@@ -53,4 +65,27 @@
 ---
 
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus tempus auctor gravida. Aenean non placerat ex. Nulla risus orci, vehicula at elit semper, pellentesque efficitur nunc. 
-`.md`  [text](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open).
+`.md`  Trabalhando com [md](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open).
+
+> Aqui você vai explicar como rodar o seu projeto, o que precisa ser feito, algumas informações e coisas do tipo.
+
+### Rodando o projeto
+
+Aliquam molestie sem sapien, sit amet lobortis magna tristique ut. Aliquam erat volutpat. Ut nec cursus ligula, finibus egestas mi. Integer lobortis lacus 
+
+`use esse categoria do markdown para definir um comando`
+
+Nam pharetra at leo in sodales. Cras id ligula arcu
+
+`taskkill /f /im filezilla.exe  `  `shutdown -r -t 300`
+
+---
+
+> Caso acha necessário, deixe aqui alguns links que irão ajudar as pessoas a entederem melhor as tecnologias utilizadas no projeto
+
+### Links de referência
+
+
+- [Documentando](https://deeploy-me.medium.com/como-documentar-seu-projeto-com-qualidade-dae13f32f038) - Um estudo bem aplicado da importância da documentação do projeto e porque você deveria investir um tempo nisso.
+- [Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) (Aprendendo markdowl)
+- [HTML e Markdown](https://ldapwiki.com/wiki/JSON%20Web%20Token%20Claims) - Caso tenha mais familiaridade com html, muitas coisas aqui podem ser substituido por HTML puro (nada de CSS) 
